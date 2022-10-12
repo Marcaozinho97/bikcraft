@@ -49,7 +49,7 @@ a{
     width: 0px;
     background-color: #ffffff;
     margin-top: 4px;
-    transition-property: 0.3s;
+    transition: 0.3s;
     position: absolute;
 }
 .header-menu a:hover::after{
