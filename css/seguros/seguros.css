@@ -41,10 +41,10 @@
 }
 .seguros-item li::before{
     content: "";
-    display: inline-block;
+    display: block;
     width: 13px;
-    height: 9x;
-    background-image:url("../../img/icones/local.svg");
+    height: 9px;
+    background-image:url("../../img/icones/lista.svg");
     position: absolute;
     left: -21px;
 }
