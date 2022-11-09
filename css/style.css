@@ -13,6 +13,7 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/forulario.css";
+@import "./utilidades/animacao.css";
 
 /*bicicletas*/
 @import "./biciletas/bicicletas-lista.css";
